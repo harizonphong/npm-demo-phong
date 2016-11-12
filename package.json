@@ -1,0 +1,17 @@
+{
+  "name": "npm-demo-phong",
+  "version": "1.0.0",
+  "description": "a demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "dqphong0302 <dqphong0302@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "kind-of": "^3.0.4"
+  }
+}
